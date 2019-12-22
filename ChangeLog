@@ -1,0 +1,25 @@
+Microracers - ChangeLog
+-----------------------
+http://microracers.sourceforge.net/
+
+11-2005
+Second release: 0.2
+After letting the project stalled for so long, I decided to grab
+the stuff already existed and make something decent out of what.
+ It adds:
+- a better menu;
+- multiple vehicles and tracks to choose from;
+- special powers and more track features;
+- split-screen multiplayer support;
+- faster and more reliable.
+
+11-12-2002
+Initial release: 0.1
+ It features:
+- terrain types and checkpoints;
+- simple artificial inteligence;
+- dynamic rotation and change of car color;
+- easy configuration of car and map through files;
+- pixel collision detection;
+- efficient smooth scroll screen system;
+- simple menu.

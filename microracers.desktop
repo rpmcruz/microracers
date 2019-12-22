@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=Microracers
+GenericName=A 2D top-view car racing game
+GenericName[pt]=Um jogo de carros 2D
+Comment=2D car racing game inspired in Micromachines
+Comment[pt]=Jogo de carros 2D inspirado no Micromachines
+Icon=microracers.xpm
+Exec=microracers
+Terminal=false
+Categories=Application;Game;ActionGame

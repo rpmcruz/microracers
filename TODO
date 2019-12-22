@@ -1,0 +1,38 @@
+Microracers - TODO
+------------------
+http://microracers.sourceforge.net/
+
+= Bugs =
+
+
+
+= Features =
+
+  For the 0.3 version, we plan to re-design the way tracks are handled
+that should change a lot the game.
+  Currently tracks are two big image, one having the track image to draw into the
+screen and the other the information about terrain types, and a config file that
+has the checkpoints. We plan to make tracks constituted of objects, ie. tracks will
+be formed of individual small images that will be putted together from a yet to do
+built-in track editor. Terrain type information is stored on those individual objects,
+and checkpoints can be added with some special objects elements.
+
+  The needed coding is not the harder part, but the graphical side. Though, this is
+also what attracts me about it, since I want to learn skills on computer graphics.
+
+  Advantages of this are various and include:
+- since you focus on individual pieces and not on a big image, tracks can be made
+more pretty.
+- this will allow everyone making tracks with little effort which result in a lot
+of tracks to play from.
+- making a track isn't as time consuming and bug-prone, since you don't have to tell
+the terrain type and checkpoints are easy to add.
+
+  Other features that should be implemented:
+- replace the vehicles by new ones, maybe having each one a character (animals?).
+- switch to a higher resolution (probably 800x600). Maybe even making it resolution
+independent by enlarging the view area.
+- Have To Stay On Screen game mode (like in Micromachines). This is particularly fun
+for same seat multiplayer games.
+- make menu a little better, with choices to toggle fullscreen and change keys.
+

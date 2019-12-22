@@ -1,0 +1,18 @@
+Microracers - INSTALL
+---------------------
+http://microracers.sourceforge.net/
+
+To compile the game, just type 'make' in the root package directory.
+Don't type make in src/, but in root directory, else it will not be
+possible to install.
+
+To install, type 'make install'. You don't need to install the game
+in the system though. You can just play it from its package dir.
+The game is intalled by default under /usr/. To install it under another
+directory, just edit the PREFIX on the root Makefile.
+
+To uninstall, type 'make uninstall'.
+
+Microracers does a trick that makes it possible to execute by just clicking
+on it using a graphical file manager. No need to open a console.
+(It won't work on symbolic links.)
