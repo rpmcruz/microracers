@@ -3,7 +3,7 @@ Microracers - README
 
 This is an old game I developed a long time ago. To try it, you need the packages libsdl1.2-dev, libsdl1.2-dev and libsdl-ttf2.0, then just type `make`.
 
-This is the latest stable 0.2 version. There is an unstable 0.3 version that included a track editor, but I never finished that one. It is under the "unstable" folder.
+This is the latest stable 0.2 version. There is an unstable 0.3 version that included a track editor, but I never finished that one. It is under the "unstable" folder. See [this repository](https://gitlab.com/osgames/microracers) if you want to get the full original CVS history.
 
 ![screenshot](screenshot.jpg)
 
